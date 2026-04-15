@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #0A0F2D; /* cosmic dark blue */
+    font-family: "Orbitron", sans-serif;
+    color: #A8E6FF; /* turquoise */
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    background-color: #4FD3FF; /* bright turquoise */
+    color: #0A0F2D;
+    padding: 10px;
+}
+
+p {
+    color: #A8E6FF;
+}
+
+
+.caption {
+    color: #FFD86B;
+    font-style: italic;
+}
+
+
+.imgbox {
+    border-style: dotted;
+    border-color: #4FD3FF;
+    padding: 10px;
+    margin: 20px;
+}
+
+
+.imgbox img {
+    width: 300px;
+    display: block;
+    margin-top: 10px;
+}
