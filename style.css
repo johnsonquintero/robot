@@ -38,7 +38,12 @@ p {
     margin-top: 10px;
 }
 
-.imgbox, .textblock {
+.imgbox {
+        display: inline-block;
+    vertical-align: top;
+    width: 45%;
+}
+.textblock {
     display: inline-block;
     vertical-align: top;
     width: 45%;
