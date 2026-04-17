@@ -34,6 +34,6 @@ p {
 
 .imgbox img {
     width: 300px;
-    display: block;
+    display: inline-block;
     margin-top: 10px;
 }
