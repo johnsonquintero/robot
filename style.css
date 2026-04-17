@@ -29,6 +29,9 @@ p {
     border-color: #4FD3FF;
     padding: 10px;
     margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
 }
 
 
@@ -36,12 +39,6 @@ p {
     width: 300px;
     display: inline-block;
     margin-top: 10px;
-}
-
-.imgbox {
-        display: inline-block;
-    vertical-align: top;
-    width: 45%;
 }
 .textblock {
     display: inline-block;
